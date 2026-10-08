@@ -1,0 +1,1 @@
+method,model,returned_model,run,iteration,width_mm,height_mm,mass_kg,max_deflection_mm,max_von_mises_stress_MPa,deflection_margin_mm,stress_margin_MPa,feasible,feasible_with_tolerance,response_status,beam_evaluated,repeated_design,best_feasible_mass_kg,elapsed_s,raw_response,error

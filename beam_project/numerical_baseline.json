@@ -1,0 +1,30 @@
+{
+  "status": "Numerical method only; AI experiments have not run.",
+  "starting_design": {
+    "mass_kg": 31.4,
+    "max_deflection_mm": 0.48828125,
+    "max_von_mises_stress_MPa": 46.875,
+    "feasible": true
+  },
+  "optimizer": {
+    "method": "SciPy",
+    "model": "SLSQP",
+    "run": 1,
+    "success": true,
+    "message": "Optimization terminated successfully",
+    "width_mm": 20.00000000000003,
+    "height_mm": 85.49879733383477,
+    "final_outputs": {
+      "mass_kg": 13.423311181412076,
+      "max_deflection_mm": 1.000000000000001,
+      "max_von_mises_stress_MPa": 102.59855680060184,
+      "deflection_margin_mm": -1.1102230246251565e-15,
+      "stress_margin_MPa": 17.40144319939816,
+      "feasible": false,
+      "feasible_with_tolerance": true
+    },
+    "solver_nfev": 38,
+    "elapsed_s": 0.005931380999982139
+  },
+  "beam_evaluations": 38
+}

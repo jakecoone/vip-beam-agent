@@ -1,0 +1,7 @@
+scipy>=1.11,<2
+numpy>=1.24,<3
+openai>=1.60,<3
+python-dotenv>=1,<2
+matplotlib>=3.7,<4
+reportlab>=4,<5
+ipykernel>=6,<8
